@@ -16,6 +16,6 @@ All files included in this repository fall under the Apache 2.0 license
 
 ## About the author
 
-Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen, and regulating the circulation. 
-Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; 
-and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off—then, I account it high time to get to sea as soon as I can.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce gravida quam id leo auctor, quis euismod risus pretium. Pellentesque pellentesque odio sed velit dignissim, laoreet tincidunt ante pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque lacinia maximus feugiat. 
+Phasellus egestas, magna vel fermentum commodo, quam augue congue diam, at molestie sem mi vulputate tortor. Sed finibus et ante non tristique. Maecenas nec commodo erat. Maecenas consequat egestas magna, sed rutrum nisi lacinia eget. Nam nec mauris non magna faucibus cursus quis et sem. Sed magna nulla, condimentum eget lectus vitae, hendrerit facilisis metus. Cras accumsan urna ut erat pretium auctor eu in ante. 
+Quisque tempus efficitur nisi sed dapibus. Curabitur rutrum massa diam, non congue tellus bibendum sit amet. Cras feugiat tellus ullamcorper elit efficitur, nec sollicitudin dui ultrices. Aenean viverra, nibh nec fermentum suscipit, mi turpis tristique erat, blandit fermentum mi turpis et ipsum.
