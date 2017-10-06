@@ -16,6 +16,4 @@ All files included in this repository fall under the Apache 2.0 license
 
 ## About the author
 
-Ik ben sander
-hoi
-dag
+Ik ben Thom, ik kom uit Eindhoven, ik werk bij Sition.
