@@ -15,7 +15,5 @@ These are code resources for the Basic Developer Training material.
 All files included in this repository fall under the Apache 2.0 license
 
 ## About the author
-
-Ik ben sander
-hoi
-dag
+hallo ik ben enrique
+en ik woon in amsterdam
