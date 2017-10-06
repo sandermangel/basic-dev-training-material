@@ -1,6 +1,6 @@
 # Basic Dev Training material
 
-author: **Sander Mangel <sander@sandermangel.nl>**
+author: **Sander Mangel <sander@sandermangel.nl> CHANGED HERE**
 
 license: [**Apache License 2.0**](https://github.com/sandermangel/basic-dev-training/blob/master/LICENSE)
 
