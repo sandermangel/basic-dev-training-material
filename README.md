@@ -17,4 +17,3 @@ All files included in this repository fall under the Apache 2.0 license
 ## About the author
 hallo ik ben enrique
 en ik woon in amsterdam
-Training 
