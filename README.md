@@ -16,6 +16,6 @@ All files included in this repository fall under the Apache 2.0 license
 
 ## About the author
 
-Ik ben sander
-hoi
-dag
+Regel 1
+Regel 2
+Regel 3 :=)
