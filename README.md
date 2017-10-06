@@ -13,3 +13,5 @@ These are code resources for the Basic Developer Training material.
 - If you want to use it for a paid training please contact the author
 
 All files included in this repository fall under the Apache 2.0 license
+
+## About the one who wrote this
