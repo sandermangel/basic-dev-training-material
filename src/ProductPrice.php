@@ -13,7 +13,9 @@ class ProductPrice
 
         $retailPrice = $this->priceIncludingTax($retailPrice, $country);
 
-        return $retailPrice;
+        $retailPrice = $this->priceIncludingShipping($retailPrice);
+
+        return round($retailPrice, 2);
     }
 
     /**
@@ -37,5 +39,16 @@ class ProductPrice
         $tax = new Tax();
 
         return $price + $tax->taxAmount($price, $country);
+    }
+
+    /**
+     * @param float $price
+     * @return float
+     */
+    public function priceIncludingShipping(float $price): float
+    {
+        $shipping = new Shipping();
+
+        return $price + $shipping->feeAmount($price);
     }
 }
