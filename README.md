@@ -15,3 +15,5 @@ These are code resources for the Basic Developer Training material.
 All files included in this repository fall under the Apache 2.0 license
 
 ## About the author
+
+Ik ben Thom, ik kom uit Eindhoven, ik werk bij Sition.
